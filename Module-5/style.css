@@ -1,0 +1,37 @@
+.center {
+    text-align: center;
+}
+.red_text {
+    color: red;
+}
+.blue_text {
+    color: blue;
+}
+.green_text {
+    color: green; 
+}
+.text_big {
+    font-size: 50px;
+}
+.text_small {
+    font-size: 10px;
+}
+.text_bold {
+    font-weight: bold;
+}
+.text_font_courier_new {
+    font-family:'Courier New', Courier, monospace;
+}
+.text_big_orange_bold {
+    font-size: 50px;
+    color: orange;
+    font-weight: bold;
+}
+.styledFont {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color:blueviolet;
+}
+img {
+    border: 7px solid yellow;
+}
